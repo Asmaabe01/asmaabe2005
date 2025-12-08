@@ -6,4 +6,4 @@
 
 **Languages:** Java, C++, C, HTML <br>
 **Tools:** Git, GitHub, VS Code, IntelliJ <br>
-**Interests:** Full-Stack Development, Data Structures, Machine Learning
+
