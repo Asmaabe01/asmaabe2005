@@ -1,4 +1,4 @@
-## Hello, I'm Asmaa!
+# Hello, I'm Asmaa!
 
 🎓 Computer Science Student @ Zhejiang University of Technology <br>
 💻 Web Development enthusiast with a focus on Algorithms & Data Science <br>
