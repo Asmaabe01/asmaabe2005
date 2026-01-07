@@ -1,9 +1,17 @@
-# Hello, I'm Asmaa!
+## Hi, I'm Asmaa! 👋  
+**Computer Science Student** 
 
-🎓 Computer Science Student @ Zhejiang University of Technology <br>
-💻 Web Development enthusiast with a focus on Algorithms & Data Science <br>
-🔐 Exploring AI and Cybersecurity to build innovative tech solutions <br> 
+---
 
-**Languages:** Java, C++, C, HTML <br>
-**Tools:** Git, GitHub, VS Code, IntelliJ <br>
+### 👩‍💻 About Me
+- 🎓 **Computer Science Student** at **Zhejiang University of Technology**
+- 🌐 Passionate about **cyber security** and **Web Development**
+- 💻 Skilled in **Java** and **C++**
+-🔧 Currently developing with **FastAPI** and exploring **Web Development** technologies.
+- 📚 Continuously enhancing my skills in **Web Development** and exploring new technologies.
+
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaabe01&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
+
 
